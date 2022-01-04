@@ -1,2 +1,1 @@
-# eHosts
-A proxy DNS that supports RegExp file hosts.
+update readme.md l8r
